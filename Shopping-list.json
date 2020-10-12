@@ -1,0 +1,18 @@
+{
+	"Stores": {
+		"Publics": {
+			"Fish_Meats": [
+				{
+					"Name": "Chicken",
+					"Unit": "lbs",
+					"Cost": "3.30"
+				},
+				{
+					"Name": "beans",
+					"Unit": "lbs",
+					"Cost": "4.40"
+				}
+			]
+		}
+	}
+}
