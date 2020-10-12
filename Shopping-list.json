@@ -1,0 +1,42 @@
+{
+	"Stores": [
+		{
+			"Store-name": {
+				"Category": {
+					"Category-items": [
+						"Fish_Meats"
+					],
+					"Name": "Chicken",
+					"Unit": "lbs",
+					"Cost": "3.30"
+				}
+			}
+		},
+		{
+			"Store-name": {
+				"Category": {
+					"Category-items": [
+						"Fish_meats"
+					],
+					"Name": "Fish",
+					"Unit": "lbs",
+					"Cost": "4.00"
+				}
+			}
+		},
+		{
+			"Store-name": {
+				"Category": {
+					"Category-items": []
+				}
+			}
+		},
+		{
+			"Store-name": {
+				"Category": {
+					"Category-items": []
+				}
+			}
+		}
+	]
+}
