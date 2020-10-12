@@ -1,7 +1,7 @@
 {
     "Stores": [
         {
-        "Publics": [
+        "Publics": 
             {
             "Fish_Meats": [
                 {
@@ -91,9 +91,8 @@
                     "Cost": "3.00"
                 }
             ]
-            }
-        ],
-        "SaveU": [
+            },
+        "SaveU": 
             {
             "Meat_Fish": [
                 {
@@ -183,11 +182,11 @@
                     "Cost": "3.00"
                 }
             ]
-        }
-     ],
+        },
+   
      
     
-        "Brodies": [
+        "Brodies": 
             {
             "Meat_Fish": [
                 {
@@ -257,9 +256,9 @@
                     "Cost": "4.00"
                 }
             ]
-        }
-    ],
-        "Twins": [
+        },
+
+            "Twins": 
             {
             "Meat_Fish": [
                 {
@@ -320,7 +319,7 @@
                 }
             ]
         }
-    ]
+    
    }
   ]   
 }
