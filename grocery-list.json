@@ -1,27 +1,28 @@
 {
-   "Publics":[
+   "Grocery-List":[
+      "Publics":[
    
         "Meat_Fish":[
             {
               "Name" : "Chicken"
               "Unit" : "lbs"
               "Cost" : "4.00"
-            }
+            },
             {
               "Name" : "Fish"
               "Unit" : "lbs"
               "Cost" : "3.00"
-            }
+            },
             {
               "Name" : "Tuna"
               "Unit" : "lbs"
               "Cost" : "3.40"
-            }
+            },
              {
               "Name" : "Salamon"
               "Unit" : "lbs"
               "Cost" : "6.00"
-            }
+            },
              {
               "Name" : "Mackrel"
               "Unit" : "lbs"
@@ -33,17 +34,17 @@
               "Name" : "Eggs"
               "Unit" : "Dozen"
               "Cost" : "4.00"
-            }
+            },
             {
               "Name" : "Cheese"
               "Unit" : "lbs"
               "Cost" : "6.50"
-            }
+            },
             {
               "Name" : "Yogurt"
               "Unit" : "Gallon"
               "Cost" : "8.40"
-            }
+            },
              {
               "Name" : "Millk"
               "Unit" : "gallon"
@@ -56,17 +57,17 @@
               "Name" : "Salt"
               "Unit" : "Item"
               "Cost" : "2.00"
-            }
+            },
             {
               "Name" : "Pepper"
               "Unit" : "Item"
               "Cost" : "3.50"
-            }
+            },
             {
               "Name" : "Sugar"
               "Unit" : "lbs"
               "Cost" : "3.00"
-            }
+            },
              {
               "Name" : "Vinegar"
               "Unit" : "gallon"
@@ -79,12 +80,12 @@
               "Name" : "Onion"
               "Unit" : "lbs"
               "Cost" : "4.00"
-            }
+            },
             {
               "Name" : "Garlic"
               "Unit" : "lbs"
               "Cost" : "1.50"
-            }
+            },
             {
               "Name" : "Sweet Pepper"
               "Unit" : "lbs"
@@ -100,22 +101,22 @@
               "Name" : "Chicken"
               "Unit" : "lbs"
               "Cost" : "4.50"
-            }
+            },
             {
               "Name" : "Fish"
               "Unit" : "lbs"
               "Cost" : "3.75"
-            }
+            },
             {
               "Name" : "Tuna"
               "Unit" : "lbs"
               "Cost" : "4.00"
-            }
+            },
              {
               "Name" : "Salamon"
               "Unit" : "lbs"
               "Cost" : "7.00"
-            }
+            },
              {
               "Name" : "Mackrel"
               "Unit" : "lbs"
@@ -127,17 +128,17 @@
               "Name" : "Eggs"
               "Unit" : "Dozen"
               "Cost" : "3.50"
-            }
+            },
             {
               "Name" : "Cheese"
               "Unit" : "lbs"
               "Cost" : "7.00"
-            }
+            },
             {
               "Name" : "Yogurt"
               "Unit" : "Gallon"
               "Cost" : "9.00"
-            }
+            },
              {
               "Name" : "Millk"
               "Unit" : "gallon"
@@ -150,17 +151,17 @@
               "Name" : "Salt"
               "Unit" : "Item"
               "Cost" : "0.75"
-            }
+            },
             {
               "Name" : "Pepper"
               "Unit" : "Item"
               "Cost" : "4.00"
-            }
+            },
             {
               "Name" : "Sugar"
               "Unit" : "lbs"
               "Cost" : "2.40"
-            }
+            },
              {
               "Name" : "Vinegar"
               "Unit" : "gallon"
@@ -173,12 +174,12 @@
               "Name" : "Onion"
               "Unit" : "lbs"
               "Cost" : "4.00"
-            }
+            },
             {
               "Name" : "Garlic"
               "Unit" : "lbs"
               "Cost" : "1.50"
-            }
+            },
             {
               "Name" : "Sweet Pepper"
               "Unit" : "lbs"
@@ -194,7 +195,7 @@
               "Name" : "Chicken"
               "Unit" : "lbs"
               "Cost" : "5.50"
-            }
+            },
             {
               "Name" : "Fish"
               "Unit" : "lbs"
@@ -207,7 +208,7 @@
               "Name" : "Eggs"
               "Unit" : "Dozen"
               "Cost" : "4.40"
-            }
+            },
             {
               "Name" : "Cheese"
               "Unit" : "lbs"
@@ -220,12 +221,12 @@
               "Name" : "Salt"
               "Unit" : "Item"
               "Cost" : "2.10"
-            }
+            },
             {
               "Name" : "Pepper"
               "Unit" : "Item"
               "Cost" : "3.40"
-            }
+            },
             {
               "Name" : "Sugar"
               "Unit" : "lbs"
@@ -237,12 +238,12 @@
               "Name" : "Onion"
               "Unit" : "lbs"
               "Cost" : "4.10"
-            }
+            },
             {
               "Name" : "Garlic"
               "Unit" : "lbs"
               "Cost" : "1.60"
-            }
+            },
             {
               "Name" : "Sweet Pepper"
               "Unit" : "lbs"
@@ -258,12 +259,12 @@
               "Name" : "Chicken"
               "Unit" : "lbs"
               "Cost" : "3.20"
-            }
+            },
             {
               "Name" : "Fish"
               "Unit" : "lbs"
               "Cost" : "4.80"
-            }
+            },
            {
               "Name" : "Salamon"
               "Unit" : "lbs"
@@ -276,12 +277,12 @@
               "Name" : "Eggs"
               "Unit" : "Dozen"
               "Cost" : "3.00"
-            }
+            },
             {
               "Name" : "Cheese"
               "Unit" : "lbs"
               "Cost" : "5.50"
-            }
+            },
             {
               "Name" : "Millk"
               "Unit" : "gallon"
@@ -294,12 +295,12 @@
               "Name" : "Salt"
               "Unit" : "Item"
               "Cost" : "1.50"
-            }
+            },
             {
               "Name" : "Pepper"
               "Unit" : "Item"
               "Cost" : "3.40"
-            }
+            },
             {
               "Name" : "Sugar"
               "Unit" : "lbs"
@@ -313,12 +314,12 @@
               "Name" : "Onion"
               "Unit" : "lbs"
               "Cost" : "5.00"
-            }
+            },
             {
               "Name" : "Garlic"
               "Unit" : "lbs"
               "Cost" : "21.50"
-            }
+            },
             {
               "Name" : "Sweet Pepper"
               "Unit" : "lbs"
@@ -330,5 +331,5 @@
 
 
 
-
+]
 }
