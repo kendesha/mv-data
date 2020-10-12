@@ -1,0 +1,16 @@
+{
+	"complexPerson": [
+		{
+			"firstName": "Lea",
+			"lastName": "Verou"
+		},
+		{
+			"firstName": "Kendesha",
+			"lastName": "Armstrong"
+		},
+		{}
+	],
+	"simplePerson": [
+		"Lea Verou"
+	]
+}
