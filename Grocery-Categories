@@ -1,0 +1,302 @@
+{
+    "Categories": [
+        {
+            "Fish_Meats": [
+                {
+                    "Chicken": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "4.00"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "4.50"
+                            },
+                            "Brodies": {
+                                "Unit": "lbs",
+                                "Cost": "3.20"
+                            },
+                            "Twins": {
+                                "Unit": "lbs",
+                                "Cost": "5.50"
+                            }
+                        }
+                    ],
+                    "Fish": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "3.00"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "3.75"
+                            },
+                            "Brodies": {
+                                "Unit": "lbs",
+                                "Cost": "4.80"
+                            },
+                            "Twins": {
+                                "Unit": "lbs",
+                                "Cost": "4.00"
+                            }
+                        }
+                    ],
+                    "Tuna": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "3.40"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "4.00"
+                            }
+                        }
+                    ],
+                    "Salmon": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "6.00"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "7.00"
+                            },
+                            "Brodies": {
+                                "Unit": "lbs",
+                                "Cost": "6.40"
+                            }
+                        }
+                    ],
+                    "Mackrel": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "2.00"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "2.50"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Dairy_Eggs": [
+                {
+                    "Eggs": [
+                        {
+                            "Publics": {
+                                "Unit": "Dozen",
+                                "Cost": "4.00"
+                            },
+                            "SaveU": {
+                                "Unit": "Dozen",
+                                "Cost": "3.50"
+                            },
+                            "Brodies": {
+                                "Unit": "Dozen",
+                                "Cost": "3.00"
+                            },
+                            "Twins": {
+                                "Unit": "Dozen",
+                                "Cost": "4.40"
+                            }
+                        }
+                    ],
+                    "Cheese": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "6.50"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "7.00"
+                            },
+                            "Brodies": {
+                                "Unit": "lbs",
+                                "Cost": "5.50"
+                            },
+                            "Twins": {
+                                "Unit": "lbs",
+                                "Cost": "6.80"
+                            }
+                        }
+                    ],
+                    "Yogurt": [
+                        {
+                            "Publics": {
+                                "Unit": "Gallon",
+                                "Cost": "8.40"
+                            },
+                            "SaveU": {
+                                "Unit": "Gallon",
+                                "Cost": "9.00"
+                            }
+                        }
+                    ],
+                    "Milk": [
+                        {
+                            "Publics": {
+                                "Unit": "gallon",
+                                "Cost": "10.00"
+                            },
+                            "SaveU": {
+                                "Unit": "gallon",
+                                "Cost": "9.80"
+                            },
+                            "Brodies": {
+                                "Unit": "gallon",
+                                "Cost": "8.00"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Condiments": [
+                {
+                    "Salt": [
+                        {
+                            "Publics": {
+                                "Unit": "Item",
+                                "Cost": "2.00"
+                            },
+                            "SaveU": {
+                                "Unit": "Item",
+                                "Cost": "0.75"
+                            },
+                            "Brodies": {
+                                "Unit": "Item",
+                                "Cost": "1.50"
+                            },
+                            "Twins": {
+                                "Unit": "Item",
+                                "Cost": "2.10"
+                            }
+                        }
+                    ],
+                    "Pepper": [
+                        {
+                            "Publics": {
+                                "Unit": "Item",
+                                "Cost": "3.50"
+                            },
+                            "SaveU": {
+                                "Unit": "Item",
+                                "Cost": "4.00"
+                            },
+                            "Brodies": {
+                                "Unit": "Item",
+                                "Cost": "3.40"
+                            },
+                            "Twins": {
+                                "Unit": "Item",
+                                "Cost": "3.40"
+                            }
+                        }
+                    ],
+                    "Sugar": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "3.00"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "2.40"
+                            },
+                            "Brodies": {
+                                "Unit": "lbs",
+                                "Cost": "2.00"
+                            },
+                            "Twins": {
+                                "Unit": "lbs",
+                                "Cost": "3.80"
+                            }
+                        }
+                    ],
+                    "Vinegar": [
+                        {
+                            "Publics": {
+                                "Unit": "gallon",
+                                "Cost": "3.00"
+                            },
+                            "SaveU": {
+                                "Unit": "gallon",
+                                "Cost": "4.00"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Produce": [
+                {
+                    "Onion": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "4.00"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "4.00"
+                            },
+                            "Brodies": {
+                                "Unit": "lbs",
+                                "Cost": "5.00"
+                            },
+                            "Twins": {
+                                "Unit": "lbs",
+                                "Cost": "4.10"
+                            }
+                        }
+                    ],
+                    "Garlic": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "1.50"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "1.50"
+                            },
+                            "Brodies": {
+                                "Unit": "lbs",
+                                "Cost": "2.50"
+                            },
+                            "Twins": {
+                                "Unit": "lbs",
+                                "Cost": "1.60"
+                            }
+                        }
+                    ],
+                    "Sweet Pepper": [
+                        {
+                            "Publics": {
+                                "Unit": "lbs",
+                                "Cost": "3.00"
+                            },
+                            "SaveU": {
+                                "Unit": "lbs",
+                                "Cost": "3.00"
+                            },
+                            "Brodies": {
+                                "Unit": "lbs",
+                                "Cost": "4.00"
+                            },
+                            "Twins": {
+                                "Unit": "lbs",
+                                "Cost": "3.20"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
