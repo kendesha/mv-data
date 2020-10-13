@@ -4,24 +4,28 @@
             "Fish_Meats": [
                 {
                     "Chicken": [
-                        {
-                            "Publics": {
+                        
+                            {
+                                "Store":"Publics",
                                 "Unit": "lbs",
                                 "Cost": "4.00"
                             },
-                            "SaveU": {
+                            {
+                                "Store":"SaveU",
                                 "Unit": "lbs",
                                 "Cost": "4.50"
                             },
-                            "Brodies": {
+                            {
+                                "Store":"Brodies",
                                 "Unit": "lbs",
                                 "Cost": "3.20"
                             },
-                            "Twins": {
+                            {
+                                "Store":"Twins",
                                 "Unit": "lbs",
                                 "Cost": "5.50"
                             }
-                        }
+                        
                     ],
                     "Fish": [
                         {
