@@ -1,27 +1,30 @@
 {
 	"item": [
 		{
-			"name": "Garlic",
-			"amount": "3 heads",
-			"store": [
-				"Whole Foods",
-				"Walgreens"
-			],
-			"bought": false
-		},
-		{
 			"name": "Eggs",
 			"amount": 12,
 			"store": [
 				"Whole Foods",
 				"Savenor’s"
 			],
-			"bought": false
+			"bought": true
+		},
+		{
+			"bought": false,
+			"name": "Garlic",
+			"amount": "3 Heads"
 		}
 	],
-	"frequentlyBought": [],
-	"Stores":[]
-	
-	
-	
+	"frequentlyBought": [
+		{
+			"bought": false,
+			"name": "Garlic",
+			"amount": "3 heads",
+			"store": [
+				"Whole Foods",
+				"Walgreens"
+			]
+		}
+	],
+	"currentStore": "Walgreens"
 }
