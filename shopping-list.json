@@ -12,7 +12,10 @@
 		{
 			"bought": false,
 			"name": "Garlic",
-			"amount": "3 Heads"
+			"amount": "3 Heads",
+			"store": [
+				"Walgreens"
+			]
 		}
 	],
 	"frequentlyBought": [
