@@ -41,6 +41,7 @@
 			"StoreName": "Savenor’s"
 		}
 	],
+	"currentStore":"",
 	"frequentlyBought": [
 		{
 			"bought": true,
