@@ -1,0 +1,37 @@
+{
+	"item": [
+		{
+			"name": "Garlic",
+			"amount": "3 heads",
+			"store": [
+				"Whole Foods",
+				"Walgreens"
+			],
+			"bought": false
+		},
+		{
+			"name": "Eggs",
+			"amount": 12,
+			"store": [
+				"Whole Foods",
+				"Savenor’s"
+			],
+			"bought": false
+		}
+	],
+	"storeUnique": [
+		{
+			"clicked": "on",
+			"StoreName": "Whole Foods"
+		},
+		{
+			"clicked": "on",
+			"StoreName": "Walgreens"
+		},
+		{
+			"clicked": "on",
+			"StoreName": "Savenor’s"
+		}
+	],
+	"frequentlyBought": []
+}
