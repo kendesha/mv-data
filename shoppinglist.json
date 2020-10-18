@@ -33,5 +33,24 @@
 			"StoreName": "Savenor’s"
 		}
 	],
-	"frequentlyBought": []
+	"frequentlyBought": [
+		{
+			"bought": true,
+			"name": "Garlic",
+			"amount": "3 heads",
+			"store": [
+				"Whole Foods",
+				"Walgreens"
+			]
+		},
+		{
+			"bought": false,
+			"name": "Eggs",
+			"amount": 12,
+			"store": [
+				"Whole Foods",
+				"Savenor’s"
+			]
+		}
+	]
 }
