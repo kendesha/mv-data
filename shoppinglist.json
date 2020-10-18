@@ -17,6 +17,14 @@
 				"Savenor’s"
 			],
 			"bought": true
+		},
+		{
+			"bought": false,
+			"name": "Cabbage",
+			"amount": "1 head",
+			"store": [
+				"Publics"
+			]
 		}
 	],
 	"storeUnique": [
