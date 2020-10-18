@@ -19,13 +19,5 @@
 			"bought": false
 		}
 	],
-	"storeUnique": [
-		{
-			"StoreName": 1
-		},
-		{
-			"StoreName": 1
-		}
-	],
 	"frequentlyBought": []
 }
