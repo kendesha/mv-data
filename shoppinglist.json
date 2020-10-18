@@ -7,7 +7,7 @@
 				"Whole Foods",
 				"Walgreens"
 			],
-			"bought": false
+			"bought": true
 		},
 		{
 			"name": "Eggs",
